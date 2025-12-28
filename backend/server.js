@@ -15,7 +15,7 @@ const externalApiRoutes = require('./routes/externalApiRoutes');
 // Import middleware
 const errorMiddleware = require('./middleware/errorMiddleware');
 
-// Initialize app
+// Initialize app 
 const app = express();
 
 // Connect to database
